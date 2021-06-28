@@ -1,8 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome to My Webpage!
 
-You can use the [editor on GitHub](https://github.com/ofcontreras/ofcontreras.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+My name is Oscar Contreras and I am an Associate Director and Research Economist at the Milken Institute. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Before joining the Institute, I was a senior economist at the research department of the Central Bank of Mexico, where I was responsible for providing macroeconomic analysis on monetary policy issues and conducting original research on macroeconomic and financial topics. Prior to my work at the Bank, I was an Assistant Professor at the University College for Financial Studies (CUNEF) in Madrid, Spain. 
+
+I have a PhD in Economics from Northwestern University and a BA (Hons) in Economics from the Center for Economic Research and Teaching (CIDE) in Mexico City.
+
+
+
+### Contact Information
+
+E-mail: oscar.fco.contreras@gmail.com
 
 ### Markdown
 
