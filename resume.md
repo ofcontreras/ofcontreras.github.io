@@ -111,25 +111,25 @@ Northwestern University, Teaching Assistant
 Advanced Workshop for Central Bankers; Corporate Finance; International Finance; Monopoly, Competition, and Public Policy; Introduction to Macroeconomics; Intermediate Microeconomics; Introduction to Microeconomics
  
 #### SELECTED FELLOWSHIPS AND AWARDS
-Dissertation Year Fellowship, Northwestern University, 2012 <br> 
-Tuition and Stipend Fellowship, Northwestern University, 2008 – 2012 <br> 
-University Fellowship, Northwestern University, 2007 – 2008 <br> 
-1st place, Mexican National Examination in Economics, CENEVAL, 2005 <br> 
-Academic Excellence Scholarship (Best overall GPA), CIDE, 2002 – 2005 <br> 
-Linnaeus-Palme Scholarship, Swedish International Development Cooperation Agency, 2004 <br> 
+* Dissertation Year Fellowship, Northwestern University, 2012 <br> 
+* Tuition and Stipend Fellowship, Northwestern University, 2008 – 2012 <br> 
+* University Fellowship, Northwestern University, 2007 – 2008 <br> 
+* 1st place, Mexican National Examination in Economics, CENEVAL, 2005 <br> 
+* Academic Excellence Scholarship (Best overall GPA), CIDE, 2002 – 2005 <br> 
+* Linnaeus-Palme Scholarship, Swedish International Development Cooperation Agency, 2004 <br> 
  
 #### OTHER POSITIONS AND ACADEMIC ACTIVITIES
-Editorial Board, Spanish Journal of Economics and Finance, 2014 – present <br> 
-Visiting Scholar, Central European University (CEU), Budapest, November 2016 <br> 
-PhD Thesis External Examiner, Zsuzsanna Szemeredi (UCM), 2015 <br> 
+* Editorial Board, Spanish Journal of Economics and Finance, 2014 – present <br> 
+* Visiting Scholar, Central European University (CEU), Budapest, November 2016 <br> 
+* PhD Thesis External Examiner, Zsuzsanna Szemeredi (UCM), 2015 <br> 
  
 #### OTHER STUDIES
-Advanced Workshop for Central Bankers, Northwestern University, September 3 to 12, 20018 <br> 
-Applied Bayesian Econometrics for Central Bankers, Bank of England, July 21 to August 1, 2018 <br>
+* Advanced Workshop for Central Bankers, Northwestern University, September 3 to 12, 20018 <br> 
+* Applied Bayesian Econometrics for Central Bankers, Bank of England, July 21 to August 1, 2018 <br>
  
 #### PERSONAL INFORMATION
-Citizenship: Mexican (U.S. Permanent Resident) <br>
-Languages: English (fluent), Spanish (native) <br>
+* Citizenship: Mexican (U.S. Permanent Resident) <br>
+* Languages: English (fluent), Spanish (native) <br>
 
 
 
