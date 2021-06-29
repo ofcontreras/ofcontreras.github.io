@@ -6,13 +6,15 @@ title: My Resume
 (For a pdf version, click here [resume.pdf](./resume_contreras.pdf))
 
 #### EDUCATION
-- Northwestern University, Evanston, IL, U.S. <br> 
-  - Ph.D., Economics, 2013 <br> 
-  - M.A., Economics. 2010 <br>
-- Center for Economic Research and Teaching (CIDE), Mexico City, Mexico <br>
-  - B.A. (summa cum laude), Economics, 2005 <br>
-- Linköping University, Linköping, Sweden <br>
-  - Exchange student, Statistics and Economics, 2004 <br> 
+Northwestern University, Evanston, IL, U.S.
+- Ph.D., Economics, 2013 <br>
+- M.A., Economics, 2010 <br>
+
+Center for Economic Research and Teaching (CIDE), Mexico City, Mexico <br>
+- B.A. (summa cum laude), Economics, 2005 <br>
+
+Linköping University, Linköping, Sweden <br>
+- Exchange student, Statistics and Economics, 2004 <br> 
 
 
 #### PROFESSIONAL EXPERIENCE
