@@ -1,8 +1,6 @@
 ---
 title: My Resume
 ---
-# Oscar Contreras
-
 (For a pdf version, click here [resume.pdf](./resume_contreras.pdf))
 
 #### EDUCATION
