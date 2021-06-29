@@ -139,16 +139,12 @@ November 2016
  
 OTHER STUDIES
 
-Advanced Workshop for Central Bankers, Northwestern University                                                  
-Applied Bayesian Econometrics for Central Bankers, Bank of England                                     
-September 3-12, 20018
-July 21 – August 1, 2018
-
+Advanced Workshop for Central Bankers, Northwestern University - September 3 to 12, 20018 <br> 
+Applied Bayesian Econometrics for Central Bankers, Bank of England - July 21 to August 1, 2018 <br>
  
-PERSONAL INFORMATION
-
-Citizenship: Mexican (U.S. Permanent Resident)
-Languages: English (fluent), Spanish (native)
+PERSONAL INFORMATION <br>
+Citizenship: Mexican (U.S. Permanent Resident) <br>
+Languages: English (fluent), Spanish (native) <br>
 
 
 
