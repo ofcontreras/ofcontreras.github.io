@@ -75,40 +75,30 @@ Statistics and Data Analysis: Causal Analysis (Experiments, IV, DID, RD, Matchin
 
  
  
-PUBLICATIONS AND WORK IN PROGRESS
+#### PUBLICATIONS AND WORK IN PROGRESS
+* "Global Opportunity Index 2021: Focus on Latin America" (with J. Bendix, B. Smith, and C. Lopez), Milken Institute, February 4, 2021 <br>
+* "Improving the ESG Rating Landscape," Milken Institute Review, November 16, 2020 <br>
+* "ESG Ratings: The Road Ahead" (with C. Lopez and J. Bendix), Milken Institute, 2020 <br>
+* "Gender Equality Discussion within the G20" <br>
+* "Political Uncertainty and Foreign Investment," R&R Journal of Development Economics <br>
+* "Relational Contracts, Financing Constraints and Welfare," R&R AEJ: Microeconomics <br>
+* "Managing Social Comparison Costs in Organizations," R&R Management Science <br>
+* "Foreclosure and Strategic Default: Evidence from Spain," in progress <br>
+* "Competition and Pension Funds: Evidence from Mexico," in progress <br>
 
-"Global Opportunity Index 2021: Focus on Latin America" (with J. Bendix, B. Smith, and C. Lopez), Milken Institute, February 4, 2021.
-"Improving the ESG Rating Landscape," Milken Institute Review, November 16, 2020.
-"ESG Ratings: The Road Ahead" (with C. Lopez and J. Bendix), Milken Institute, 2020.
-"Gender Equality Discussion within the G20"
-"Political Uncertainty and Foreign Investment," R&R Journal of Development Economics
-"Relational Contracts, Financing Constraints and Welfare," R&R AEJ: Microeconomics
-"Managing Social Comparison Costs in Organizations," R&R Management Science
-"Foreclosure and Strategic Default: Evidence from Spain," in progress
-"Competition and Pension Funds: Evidence from Mexico," in progress 
-
+#### MEDIA COVERAGE
+* FDI Intelligence (March 2, 2021): "Europe Dethrones Asia's City States in FDI Appeal" <br>
+* América Economía (Chile / Feb. 23, 2021): "Chile gana la carrera por atraer inversión extranjera en América Latina: supera a Uruguay y Costa Rica" <br>
  
-MEDIA COVERAGE
-
-FDI Intelligence (March 2, 2021): "Europe Dethrones Asia's City States in FDI Appeal."
-América Economía (Chile / Feb. 23, 2021): "Chile gana la carrera por atraer inversión extranjera en América Latina: supera a Uruguay y Costa Rica."
-
- 
-CONFERENCE AND SEMINAR PRESENTATIONS
-
+#### CONFERENCE AND SEMINAR PRESENTATIONS
 Banco de México (2017, 2012, 2010); 2nd Workshop on Relational Contracts (CUNEF, 2016); SIOE (Sciences Po, 2016);  ThRed Conference (ECARES–Université Libre de Bruxelles, 2015); Workshop on Relational Contracts (Ludwig Maximilians Universität, 2015); European Meeting of the Econometric Society (Toulouse School of Economics, 2014); ISNIE (Duke University, 2014); CUNEF (2013); Yeshiva University (2013); CRA–Washington, D.C. (2013); Cornerstone Research–Boston (2013); Princeton University (2012); Northwestern University (2012, 2010)
-
  
 #### TEACHING EXPERIENCE
-CUNEF, Instructor                                                                                                                     
-2013 – 2017
+CUNEF, Instructor, 2013 – 2017 <br>
+- Strategic Management; Organizational Design; Microeconomics <br>
 
-Strategic Management; Organizational Design; Microeconomics
-
-Northwestern University, Teaching Assistant                                                                     
-     2008 – 2013
-
-Advanced Workshop for Central Bankers; Corporate Finance; International Finance; Monopoly, Competition, and Public Policy; Introduction to Macroeconomics; Intermediate Microeconomics; Introduction to Microeconomics
+Northwestern University, Teaching Assistant, 2008 – 2013 <br>
+- Advanced Workshop for Central Bankers; Corporate Finance; International Finance; Monopoly, Competition, and Public Policy; Introduction to Macroeconomics; Intermediate Microeconomics; Introduction to Microeconomics
  
 #### SELECTED FELLOWSHIPS AND AWARDS
 * Dissertation Year Fellowship, Northwestern University, 2012 <br> 
