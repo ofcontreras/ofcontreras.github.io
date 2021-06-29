@@ -6,25 +6,23 @@ title: My Resume
 (For a pdf version, click here [resume.pdf](./resume_contreras.pdf))
 
 #### EDUCATION
-Northwestern University, Evanston, IL, U.S. <br> 
-* Ph.D., Economics, 2013 <br>
-* M.A., Economics. 2010 <br> 
-
-Center for Economic Research and Teaching (CIDE), Mexico City, Mexico <br>
-* B.A. (summa cum laude), Economics, 2005 <br> 
-
-Linköping University, Linköping, Sweden <br>
-* Exchange student, Statistics and Economics, 2004 <br> 
+- Northwestern University, Evanston, IL, U.S. <br> 
+  - Ph.D., Economics, 2013 <br> 
+  - M.A., Economics. 2010 <br>
+- Center for Economic Research and Teaching (CIDE), Mexico City, Mexico <br>
+  - B.A. (summa cum laude), Economics, 2005 <br>
+- Linköping University, Linköping, Sweden <br>
+  - Exchange student, Statistics and Economics, 2004 <br> 
 
 
 #### PROFESSIONAL EXPERIENCE
 
-**Milken Institute** <br>
-_Associate Director/Economist – Research Department, Dec 2019 - present_ <br> 
-- Conduct research and prepare reports on various economic topics such as international capital flows, ESG investing, and financial literacy
-- Lead day-to-day work on specific projects and initiatives related to International Finance
-- Contribute to developing the Department's research agenda
-- Manage and mentor team of data analysts
+**Milken Institute** <br> 
+_Associate Director/Economist – Research Department, Dec 2019 - present_ <br>
+* Conduct research and prepare reports on various economic topics such as international capital flows, ESG investing, and financial literacy <br>
+* Lead day-to-day work on specific projects and initiatives related to International Finance <br>
+* Contribute to developing the Department's research agenda <br>
+* Manage and mentor team of data analysts <br>
 
 **Central Bank of Mexico** <br>
 - Senior Economist – Research Department (Monetary Affairs Unit), Jan 2018 – Nov 2019
