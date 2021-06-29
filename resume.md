@@ -5,36 +5,25 @@ title: My Resume
 
 (For a pdf version, click here [resume.pdf](./resume_contreras.pdf))
 
-**EDUCATION** <br>
-Northwestern University, Evanston, IL, U.S.
-       Ph.D., Economics
-       M.A., Economics
- 
- 
-     2013
-     2010
-Center for Economic Research and Teaching (CIDE), Mexico City, Mexico
-       B.A. (summa cum laude), Economics                   
- 
+#### EDUCATION
+- Northwestern University, Evanston, IL, U.S. <br> 
+  - Ph.D., Economics, 2013 <br> 
+  - M.A., Economics. 2010 <br> 
 
-     2005
-Linköping University, Linköping, Sweden
-       Exchange student, Statistics and Economics                                                     
-
-     2004
+- Center for Economic Research and Teaching (CIDE), Mexico City, Mexico <br> 
+  - B.A. (summa cum laude), Economics, 2005 <br> 
+- Linköping University, Linköping, Sweden <br> 
+  - Exchange student, Statistics and Economics, 2004 <br> 
 
 
-PROFESSIONAL EXPERIENCE
+#### PROFESSIONAL EXPERIENCE
 
-Milken Institute
-Associate Director/Economist – Research Department 
-    Dec 2019 - present
-
-Conduct research and prepare reports on various economic topics such as international 
-capital flows, ESG investing, and financial literacy
-Lead day-to-day work on specific projects and initiatives related to International Finance
-Contribute to developing the Department's research agenda
-Manage and mentor team of data analysts
+**Milken Institute** <br>
+Associate Director/Economist – Research Department, Dec 2019 - present
+  - Conduct research and prepare reports on various economic topics such as international capital flows, ESG investing, and financial literacy
+  - Lead day-to-day work on specific projects and initiatives related to International Finance
+  - Contribute to developing the Department's research agenda
+  - Manage and mentor team of data analysts
 
 Central Bank of Mexico
 Senior Economist – Research Department (Monetary Affairs Unit)
@@ -68,13 +57,10 @@ Conducted high-quality research on a range of economic issues, including politic
 instability and foreign investment, housing market regulations, and financial market frictions.
 Taught courses on strategic management, organizational design, and microeconomics.         
  
-SOFTWARE SKILLS
+#### SOFTWARE SKILLS
+* **Programming:** R, Python, SQL, MATLAB, STATA, E-Views, Dynare <br>
+* **Statistics and Data Analysis:** Causal Analysis (Experiments, IV, DID, RD, Matching), Hypothesis Testing, Predictive Modeling (Random Forests, Boosting, Clustering), Time-Series (VARS, SVARS, Kalman Filter) <br>
 
-Programming: R, Python, SQL, MATLAB, STATA, E-Views, Dynare
-Statistics and Data Analysis: Causal Analysis (Experiments, IV, DID, RD, Matching), Hypothesis Testing, Predictive Modeling (Random Forests, Boosting, Clustering), Time-Series (VARS, SVARS, Kalman Filter)
-
- 
- 
 #### PUBLICATIONS AND WORK IN PROGRESS
 * "Global Opportunity Index 2021: Focus on Latin America" (with J. Bendix, B. Smith, and C. Lopez), Milken Institute, February 4, 2021 <br>
 * "Improving the ESG Rating Landscape," Milken Institute Review, November 16, 2020 <br>
@@ -91,11 +77,13 @@ Statistics and Data Analysis: Causal Analysis (Experiments, IV, DID, RD, Matchin
 * América Economía (Chile / Feb. 23, 2021): "Chile gana la carrera por atraer inversión extranjera en América Latina: supera a Uruguay y Costa Rica" <br>
  
 #### CONFERENCE AND SEMINAR PRESENTATIONS
-Banco de México (2017, 2012, 2010); 2nd Workshop on Relational Contracts (CUNEF, 2016); SIOE (Sciences Po, 2016);  ThRed Conference (ECARES–Université Libre de Bruxelles, 2015); Workshop on Relational Contracts (Ludwig Maximilians Universität, 2015); European Meeting of the Econometric Society (Toulouse School of Economics, 2014); ISNIE (Duke University, 2014); CUNEF (2013); Yeshiva University (2013); CRA–Washington, D.C. (2013); Cornerstone Research–Boston (2013); Princeton University (2012); Northwestern University (2012, 2010)
+Banco de México (2017, 2012, 2010); 2nd Workshop on Relational Contracts (CUNEF, 2016); SIOE (Sciences Po, 2016);  ThRed Conference (ECARES–Université Libre de Bruxelles, 2015); Workshop on Relational Contracts (Ludwig Maximilians Universität, 2015); European Meeting of the Econometric Society (Toulouse School of Economics, 2014); ISNIE (Duke University, 2014); CUNEF (2013); Yeshiva University (2013); CRA–Washington, D.C. (2013); Cornerstone Research–Boston (2013); Princeton University (2012); Northwestern University (2012, 2010) <br>
  
 #### TEACHING EXPERIENCE
-* CUNEF, Instructor, 2013 – 2017: Strategic Management; Organizational Design; Microeconomics
-* Northwestern University, Teaching Assistant (2008 – 2013): Advanced Workshop for Central Bankers; Corporate Finance; International Finance; Monopoly, Competition, and Public Policy; Introduction to Macroeconomics; Intermediate Microeconomics; Introduction to Microeconomics
+- CUNEF, Instructor, 2013 – 2017 <br> 
+  - Strategic Management; Organizational Design; Microeconomics <br> 
+- Northwestern University, Teaching Assistant, 2008 – 2013 <br> 
+  - Advanced Workshop for Central Bankers; Corporate Finance; International Finance; Monopoly, Competition, and Public Policy; Introduction to Macroeconomics; Intermediate Microeconomics; Introduction to Microeconomics <br> 
  
 #### SELECTED FELLOWSHIPS AND AWARDS
 * Dissertation Year Fellowship, Northwestern University, 2012 <br> 
@@ -117,6 +105,4 @@ Banco de México (2017, 2012, 2010); 2nd Workshop on Relational Contracts (CUNEF
 #### PERSONAL INFORMATION
 * Citizenship: Mexican (U.S. Permanent Resident) <br>
 * Languages: English (fluent), Spanish (native) <br>
-
-
 
