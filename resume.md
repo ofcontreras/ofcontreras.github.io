@@ -99,8 +99,7 @@ CONFERENCE AND SEMINAR PRESENTATIONS
 Banco de México (2017, 2012, 2010); 2nd Workshop on Relational Contracts (CUNEF, 2016); SIOE (Sciences Po, 2016);  ThRed Conference (ECARES–Université Libre de Bruxelles, 2015); Workshop on Relational Contracts (Ludwig Maximilians Universität, 2015); European Meeting of the Econometric Society (Toulouse School of Economics, 2014); ISNIE (Duke University, 2014); CUNEF (2013); Yeshiva University (2013); CRA–Washington, D.C. (2013); Cornerstone Research–Boston (2013); Princeton University (2012); Northwestern University (2012, 2010)
 
  
-TEACHING EXPERIENCE
-
+#### TEACHING EXPERIENCE
 CUNEF, Instructor                                                                                                                     
 2013 – 2017
 
@@ -111,38 +110,24 @@ Northwestern University, Teaching Assistant
 
 Advanced Workshop for Central Bankers; Corporate Finance; International Finance; Monopoly, Competition, and Public Policy; Introduction to Macroeconomics; Intermediate Microeconomics; Introduction to Microeconomics
  
-SELECTED FELLOWSHIPS AND AWARDS
-
-Dissertation Year Fellowship, Northwestern University                           
-Tuition and Stipend Fellowship, Northwestern University                         
-University Fellowship, Northwestern University                                  
-1st place, Mexican National Examination in Economics, CENEVAL                   
-Academic Excellence Scholarship (Best overall GPA), CIDE                        
-Linnaeus-Palme Scholarship, Swedish International Development Cooperation Agency
-2012
-2008 – 2012
-2007 – 2008
-2005
-2002 – 2005
-2004
-
+#### SELECTED FELLOWSHIPS AND AWARDS
+Dissertation Year Fellowship, Northwestern University, 2012 <br> 
+Tuition and Stipend Fellowship, Northwestern University, 2008 – 2012 <br> 
+University Fellowship, Northwestern University, 2007 – 2008 <br> 
+1st place, Mexican National Examination in Economics, CENEVAL, 2005 <br> 
+Academic Excellence Scholarship (Best overall GPA), CIDE, 2002 – 2005 <br> 
+Linnaeus-Palme Scholarship, Swedish International Development Cooperation Agency, 2004 <br> 
  
-OTHER POSITIONS AND ACADEMIC ACTIVITIES
-
-Editorial Board, Spanish Journal of Economics and Finance
-Visiting Scholar, Central European University (CEU), Budapest                                                  
-PhD Thesis External Examiner, Zsuzsanna Szemeredi (UCM)
-2014 – present
-November 2016
-2015
-
+#### OTHER POSITIONS AND ACADEMIC ACTIVITIES
+Editorial Board, Spanish Journal of Economics and Finance, 2014 – present <br> 
+Visiting Scholar, Central European University (CEU), Budapest, November 2016 <br> 
+PhD Thesis External Examiner, Zsuzsanna Szemeredi (UCM), 2015 <br> 
  
-#### OTHER STUDIES <br>
-***
-Advanced Workshop for Central Bankers, Northwestern University - September 3 to 12, 20018 <br> 
-Applied Bayesian Econometrics for Central Bankers, Bank of England - July 21 to August 1, 2018 <br>
+#### OTHER STUDIES
+Advanced Workshop for Central Bankers, Northwestern University, September 3 to 12, 20018 <br> 
+Applied Bayesian Econometrics for Central Bankers, Bank of England, July 21 to August 1, 2018 <br>
  
-#### PERSONAL INFORMATION <br>
+#### PERSONAL INFORMATION
 Citizenship: Mexican (U.S. Permanent Resident) <br>
 Languages: English (fluent), Spanish (native) <br>
 
