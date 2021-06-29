@@ -27,24 +27,24 @@ Linköping University, Linköping, Sweden <br>
   - Manage and mentor team of data analysts <br>
 
 **Central Bank of Mexico** <br>
-- Senior Economist – Research Department (Monetary Affairs Unit), Jan 2018 – Nov 2019
+- _Senior Economist – Research Department (Monetary Affairs Unit), Jan 2018 – Nov 2019_
   - Developed econometric models for forecasting and scenario analysis
   - Prepared policy notes on current economic and financial developments
   - Contributed to institutional publications, including the Quarterly Inflation Report
   - Conducted original research on macroeconomic and financial topics
 
-- Summer Intern – Research Department (Macroeconomic Studies), Summer 2010 <br>
+- _Summer Intern – Research Department (Macroeconomic Studies), Summer 2010_ <br>
   - Developed and estimated a macroeconomic model with financial intermediaries           
   - Analyzed how financial frictions propagate shocks to the real economy
 
-- Economist – Research Department (Macroeconomic Analysis Unit), Apr 2005 – Aug 2007
+- _Economist – Research Department (Macroeconomic Analysis Unit), Apr 2005 – Aug 2007_
   - Drafted weekly notes on economic data releases and financial market developments
   - Maintained and updated economic and financial databases
   - Assisted in the formulation of senior management briefings
   - Worked with senior economists on various research projects (e.g., understanding business cycles in Mexico and the U.S., calculating the natural rate of unemployment, etc.)
 
 **University College for Financial Studies (CUNEF), Madrid, Spain** 
-- Assistant Professor, Sep 2013 – Dec 2017
+- _Assistant Professor, Sep 2013 – Dec 2017_
   - Conducted high-quality research on a range of economic issues, including political instability and foreign investment, housing market regulations, and financial market frictions
   - Taught courses on strategic management, organizational design, and microeconomics.         
  
