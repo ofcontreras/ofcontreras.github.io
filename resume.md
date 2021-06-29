@@ -20,7 +20,7 @@ Linköping University, Linköping, Sweden <br>
 #### PROFESSIONAL EXPERIENCE
 
 **Milken Institute** <br>
-Associate Director/Economist – Research Department, Dec 2019 - present <br> 
+_Associate Director/Economist – Research Department, Dec 2019 - present_ <br> 
 - Conduct research and prepare reports on various economic topics such as international capital flows, ESG investing, and financial literacy
 - Lead day-to-day work on specific projects and initiatives related to International Finance
 - Contribute to developing the Department's research agenda
