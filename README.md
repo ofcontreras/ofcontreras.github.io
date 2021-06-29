@@ -12,4 +12,4 @@ I have a PhD in Economics from [Northwestern University](https://www.northwester
 
 E-mail: oscar.fco.contreras@gmail.com
 
-Visit my [Linkedin Profile](www.linkedin.com/in/oscarfcontreras)
+Visit my [Linkedin Profile](https://www.linkedin.com/in/oscarfcontreras)
