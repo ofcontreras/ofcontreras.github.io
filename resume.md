@@ -94,11 +94,8 @@ Statistics and Data Analysis: Causal Analysis (Experiments, IV, DID, RD, Matchin
 Banco de México (2017, 2012, 2010); 2nd Workshop on Relational Contracts (CUNEF, 2016); SIOE (Sciences Po, 2016);  ThRed Conference (ECARES–Université Libre de Bruxelles, 2015); Workshop on Relational Contracts (Ludwig Maximilians Universität, 2015); European Meeting of the Econometric Society (Toulouse School of Economics, 2014); ISNIE (Duke University, 2014); CUNEF (2013); Yeshiva University (2013); CRA–Washington, D.C. (2013); Cornerstone Research–Boston (2013); Princeton University (2012); Northwestern University (2012, 2010)
  
 #### TEACHING EXPERIENCE
-CUNEF, Instructor, 2013 – 2017 <br>
-- Strategic Management; Organizational Design; Microeconomics <br>
-
-Northwestern University, Teaching Assistant, 2008 – 2013 <br>
-- Advanced Workshop for Central Bankers; Corporate Finance; International Finance; Monopoly, Competition, and Public Policy; Introduction to Macroeconomics; Intermediate Microeconomics; Introduction to Microeconomics
+* CUNEF, Instructor, 2013 – 2017: Strategic Management; Organizational Design; Microeconomics
+* Northwestern University, Teaching Assistant (2008 – 2013): Advanced Workshop for Central Bankers; Corporate Finance; International Finance; Monopoly, Competition, and Public Policy; Introduction to Macroeconomics; Intermediate Microeconomics; Introduction to Microeconomics
  
 #### SELECTED FELLOWSHIPS AND AWARDS
 * Dissertation Year Fellowship, Northwestern University, 2012 <br> 
