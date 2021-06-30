@@ -5,7 +5,7 @@ title: About Me
 
 I have a PhD in Economics from [Northwestern University](https://www.northwestern.edu/) and a BA (Hons) from the Center for Economic Research and Teaching ([CIDE](https://www.cide.edu/)) in Mexico City.
 
-Currently, I am an Associate Director and Research Economist at the [Milken Institute](http://milkeninstitute.org/). My work combines standard econometrics techniques, machine learning tools, and economic theory to gain insights into various issues and to help decision-makers implement better decisions.
+Currently, I am an Associate Director and Research Economist at the [Milken Institute](http://milkeninstitute.org/). My work combines standard econometrics techniques with machine learning tools and economic theory to gain insights into various issues and to help decision-makers implement better decisions.
 
 Before joining the Institute, I was a senior economist in the research department of the [Central Bank of Mexico](https://www.banxico.org.mx/indexen.html), where I was responsible for providing macroeconomic analysis on monetary policy issues and conducting original research on macroeconomic and financial topics.
 
