@@ -2,6 +2,12 @@
 title: About Me
 ---
 # Oscar Contreras
+My name is Oscar Contreras and I am an Associate Director and Research Economist at the [Milken Institute](http://milkeninstitute.org/). 
 
-For a pdf version of my resume, click [here].(./resume_contreras.pdf)
+I have a PhD in Economics from [Northwestern University](https://www.northwestern.edu/) and a BA (Hons) in Economics from the Center for Economic Research and Teaching ([CIDE](https://www.cide.edu/)) in Mexico City.
+
+Before joining the Institute, I was a senior economist at the research department of the Central Bank of Mexico, where I was responsible for providing macroeconomic analysis on monetary policy issues and conducting original research on macroeconomic and financial topics. Prior to my work at the Bank, I was an Assistant Professor at the University College for Financial Studies ([CUNEF](https://www.cunef.edu/)) in Madrid, Spain. 
+
+* Link to my [resume].(./resume_contreras.pdf)
+* Link to my [Linkedin Profile](https://www.linkedin.com/in/oscarfcontreras)
 
