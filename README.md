@@ -9,4 +9,3 @@ Before joining the Institute, I was a senior economist at the research departmen
 
 ### Contact Information
 E-mail: oscar.fco.contreras@gmail.com <br>
-Visit my [Linkedin Profile](https://www.linkedin.com/in/oscarfcontreras)
