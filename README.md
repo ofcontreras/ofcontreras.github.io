@@ -4,7 +4,7 @@ My name is Oscar Contreras.
 
 I am a research economist and data-scientists with over ten years of experience in academia, government, and non-government organizations.
 
-My work combines standard econometrics techniques with machine learning tools and economic theory to gain insights into various economic and social issues.
+My work combines standard econometrics techniques with machine learning tools and economic theory to gain valuable insights into various economic and social issues.
 
 Here you'll find information on some of my [research projects](./projects.html), as well as my previous [work experience](./about_me.html).
 
