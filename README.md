@@ -2,7 +2,7 @@
 
 My name is Oscar Contreras.
 
-I am a research economist and data-scientists with over ten years of experience in academia, government, and non-government organizations.
+I am a research economist and data-scientist with over ten years of experience in academia, government, non-proft and profit sectors.
 
 My work combines standard econometrics techniques with machine learning tools and economic theory to gain valuable insights into various economic and social issues.
 
